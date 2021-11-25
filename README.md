@@ -3,6 +3,6 @@
 
 ##Today is Thursday
 
-##Hell India
+##Hello India
 ##Thursday
 
